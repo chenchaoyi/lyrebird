@@ -137,7 +137,7 @@ lyrebird
 
 ----
 
-# 在代码中使用lyrebird
+# 在代码中使用Lyrebird
 
 ```python
 import lyrebird
